@@ -7,7 +7,7 @@ Please download all the files to the same folder.
 
 Additionally to the files here contained, two more files are needed: UKF.m and isonemptyfield.m . The two of them can
   be found in the following addresses, respectively: 
-    https://github.com/sbitzer/BayesFilters
+    https://github.com/sbitzer/BayesFilters, 
     https://github.com/sbitzer/Matlab-helpers
 
 The file CSHS.m can be executed on its own, giving it an empty ([]) input. Default values for all the parameters will 
